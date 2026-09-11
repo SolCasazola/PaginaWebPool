@@ -1,0 +1,10 @@
+{
+  "description": "Generates image designs based on user input, enabling quick creation of customized visuals for marketing, presentations, or social media.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
